@@ -1,2 +1,2 @@
-# Blazer-v2
+# ❤️‍🔥 Blazer v2 ❤️‍🔥
 📒 An website of repository... 📒
