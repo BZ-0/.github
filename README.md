@@ -4,7 +4,7 @@
 - An new JavaScript project. 
 - Exceptionally new technology. 
 
-🤚 Please, if you have no desire to do TypeScript support, don't do it! I'll do it for you somehow! ✋
+### 🤚 Please, if you have no desire to do TypeScript support, don't do it! I'll do it for you somehow! ✋
 
 ## 📦 Projects 📦
 
