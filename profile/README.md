@@ -11,7 +11,6 @@
 - [x] 🪖 [BTyped2](https://github.com/BlazerNEO/BTyped2) 🪖 - library for encoders and decoders, also for animations.
 - [x] ❤️‍🔥 [InterWork 2](https://github.com/BlazerNEO/InterWork2) ❤️‍🔥 - next-gen pure JS web worker library.
 - [x] 🪭 [BQuery](https://github.com/BlazerNEO/BQuery) 🪭 - JQuery alternative, competitor, wrapper, library.
-- [ ] 🎨 [BCanvas](https://github.com/BlazerNEO/BCanvas) 🎨 - HTML5 Canvas 2D interactive library.
 
 ## 🗿 No active development or no more maintained... 🗿
 
