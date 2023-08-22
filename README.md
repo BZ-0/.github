@@ -13,7 +13,7 @@
 - [x] 🪭 [BQuery](https://github.com/BlazerNEO/BQuery) 🪭 - JQuery alternative, competitor, wrapper, library.
 - [ ] 🎨 [BCanvas](https://github.com/BlazerNEO/BCanvas) 🎨 - HTML5 Canvas 2D interactive library.
 
-## 🗿 Not active development or no more maintained... 🗿
+## 🗿 No active development or no more maintained... 🗿
 
 - [x] 🖼 [OpenJNG 2](https://github.com/BlazerNEO/OpenJNG2) 🖼 - next-gen JNG decoder for Web Browser.
 - [x] 🖼 [WrapJXL](https://github.com/BlazerNEO/WrapJXL) 🖼 - wrap around JXL library from WebAssembly.
