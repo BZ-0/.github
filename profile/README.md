@@ -9,12 +9,12 @@
 ## 📦 Projects 📦
 
 - [x] 🪖 [BTyped2](https://github.com/BlazerNEO/BTyped2) 🪖 - library for encoders and decoders, also for animations.
-- [x] ❤️‍🔥 [InterWork 2](https://github.com/BlazerNEO/InterWork2) ❤️‍🔥 - next-gen pure JS web worker library.
-- [x] 🪭 [BQuery](https://github.com/BlazerNEO/BQuery) 🪭 - JQuery alternative, competitor, wrapper, library.
-- [ ] ☁️  [SkyDesign](https://github.com/BlazerNEO/SkyDesign) ☁️ - WIP new design CSS and JS library.
+- [x] ❤️‍🔥 [BInter2](https://github.com/BlazerNEO/BInter2) ❤️‍🔥 - next-gen pure JS web worker library.
 
 ## 🗿 No active development or no more maintained... 🗿
 
+- [x] 🥀 [BQuery](https://github.com/BlazerNEO/BQuery) 🥀 - JQuery alternative, competitor, wrapper, library.
+- [ ] ☁️ [BDesign](https://github.com/BlazerNEO/BDesign) ☁️ - WIP new design CSS and JS library.
 - [ ] 🖼 [BImage](https://github.com/BlazerNEO/BImage) 🖼 - multiple image formats project.
 - [ ] 📚 [BlazerNEO](https://github.com/BlazerNEO/.github) 📚 - an official repository website.
 
