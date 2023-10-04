@@ -1,8 +1,8 @@
-# ❤️‍🔥 Blazer v2 ❤️‍🔥
+# ❤️‍🔥 BZ-0 ❤️‍🔥
 
-- A website and web-page of project. 
 - An new JavaScript project. 
-- Exceptionally new technology. 
+- Exceptionally new technology.
+- Our ecosystem.
 
 ### 🤚 Please, if you have no desire to do TypeScript support, don't do it! I'll do it for you somehow! ✋
 
