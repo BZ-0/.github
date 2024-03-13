@@ -1,1 +1,3 @@
-# ❤️‍🔥 BZ-0 ❤️‍🔥
+# Important Announcement
+
+I realize you miss all my and our projects like BCom2 and its little utilities. And that you feel that hope is kind of dead, as well as the whole project. But as of February 2024, I decided that I would secretly develop a dedicated UI/UX Frontend and PWA project by 2025. At that time, I'll introduce a whole bunch of heavily updated libraries, well tested and honed. In addition, it will also be a kind of Android shell simulator (launcher or home-screen). Regarding the Comlink alternative, I'm also planning a complete redesign, and by version 3.0, where there will definitely be a complete breakdown into modules and components, and even a whole meta-programming. Unfortunately, I will not be able to fully present the idea of supporting JNG and JXL, as well as other graphic formats (images), also due to lack of time or motivation/desire.
