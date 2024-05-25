@@ -3,6 +3,15 @@
 📱 [Such Web Application for test]( https://webapp-idc-lc-conway24b.amvera.io) 📱 (works weekly) 📱 <br/>
 <sub>Published by Amvera in 25.05.2024...</sub>
 
+## 📜 Instructions 📜
+
+Highly recommended Chrome-based browser from 124 version or higher. 
+
+Enable these flags (at least): 
+- #enable-experimental-web-platform-features
+- #enable-future-v8-vm-features
+- #enable-javascript-harmony
+
 ---
 
 <p style="text-align: center;">
