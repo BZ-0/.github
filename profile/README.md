@@ -1,6 +1,6 @@
 # My intentions were serious.....
 
-[Such Web Application for test]( https://webapp-idc-lc-conway24b.amvera.io) (works weekly)
+📱 [Such Web Application for test]( https://webapp-idc-lc-conway24b.amvera.io) 📱 (works weekly) 📱
 
 ---
 
