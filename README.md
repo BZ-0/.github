@@ -7,7 +7,7 @@
 
 Highly recommended Chrome-based browser from 124 version or higher. 
 
-Enable these flags: 
+Enable these flags (at least): 
 - #enable-experimental-web-platform-features
 - #enable-future-v8-vm-features
 - #enable-javascript-harmony
