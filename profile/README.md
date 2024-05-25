@@ -2,6 +2,8 @@
 
 📱 [Such Web Application for test]( https://webapp-idc-lc-conway24b.amvera.io) 📱 (works weekly) 📱
 
+Published by Amvera in 25.05.2024... 
+
 ---
 
 <p style="text-align: center;">
