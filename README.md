@@ -1,3 +1,61 @@
+# My intentions were serious.....
+
+📱 [Such Web Application for test]( https://webapp-idc-lc-conway24b.amvera.io) 📱 (works weekly) 📱 <br/>
+<sub>Published by Amvera in 25.05.2024...</sub>
+
+---
+
+<p style="text-align: center;">
+<h1 style="text-align: center;">📟 IDX-LC (inc) 📟</h1>
+</p>
+
+<p style="text-align: center;">
+    <h2 style="color:lightseagreen;text-align: center;">👑 Coding Qualifications 👑</h2>
+    <table border="0" style="text-align: left; display: inline-table; border: none 0px transparent;">
+        <tr>
+            <td><b style="font-size:1rem">Main-line code</b></td>
+            <td>
+                <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+                <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+                <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+            </td>
+        </tr>
+        <tr>
+            <td><b style="font-size:1rem">Preprocessor code</b></td>
+            <td>
+                <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack">
+                <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS">
+                <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454" alt="Pug">
+            </td>
+        </tr>
+        <tr>
+            <td><b style="font-size:1rem">Second-line code</b></td>
+            <td>
+                <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="AssemblyScript">
+                <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+            </td>
+        </tr>
+        <tr>
+            <td><b style="font-size:1rem">Off-line code</b></td>
+            <td>
+                <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+                <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+                <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+                <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+            </td>
+        </tr>
+        <tr>
+            <td><b style="font-size:1rem">Others</b></td>
+            <td>
+                <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+                <img src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Insiders">
+            </td>
+        </tr>
+    </table>
+</p>
+
+<hr/>
+
 # Important Announcement
 
 I realize you miss all my and our projects like BCom2 and its little utilities. And that you feel that hope is kind of dead, as well as the whole project. But as of February 2024, I decided that I would secretly develop a dedicated UI/UX Frontend and PWA project by 2025. At that time, I'll introduce a whole bunch of heavily updated libraries, well tested and honed. In addition, it will also be a kind of Android shell simulator (launcher or home-screen). Regarding the Comlink alternative, I'm also planning a complete redesign, and by version 3.0, where there will definitely be a complete breakdown into modules and components, and even a whole meta-programming. Unfortunately, I will not be able to fully present the idea of supporting JNG and JXL, as well as other graphic formats (images), also due to lack of time or motivation/desire.
