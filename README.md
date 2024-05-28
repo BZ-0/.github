@@ -3,7 +3,9 @@
 📱 [Such Web Application for test]( https://webapp-idc-lc-conway24b.amvera.io) 📱 (works weekly) 📱 <br/>
 <sub>Published by Amvera in 25.05.2024...</sub>
 
-## 📜 Instructions 📜
+📜 [Source Code was opened...](https://github.com/BZ-0/IDC-LX-source-with-history) 📜
+
+## 📜 Instructions to Run 📜
 
 Highly recommended Chrome-based browser from 124 version or higher. 
 
