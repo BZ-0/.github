@@ -1,7 +1,7 @@
 # 👑 My intentions were serious... 👑
 
-📱 [Such Web Application for test]( https://webapp-idc-lc-conway24b.amvera.io) 📱 (works weekly) 📱 <br/>
-<sub>Published by Amvera in 25.05.2024...</sub>
+📱 [WebApp demo test](https://idc-lx.ru) <br/>
+<sub>Published to VDS 14.06.2024 </sub>
 
 📜 [Source Code was opened...](https://github.com/BZ-0/IDC-LX-source-with-history) 📜
 
