@@ -1,5 +1,9 @@
 # 👑 My intentions were serious... 👑
 
+## 🎲 My first and biggest 🐱 Pet-Project 🐱 ever... 🎲
+
+> I took a big risk when I decided to take such a step and project, I spent so much effort and nerves on it, already enough for 100$ reparations or compensation or reimbursement.
+
 📱 [WebApp demo test](https://idc-lx.ru) <br/>
 <sub>Published to VDS 14.06.2024 </sub>
 
