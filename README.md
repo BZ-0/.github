@@ -1,24 +1,6 @@
-# 👑 My intentions were serious... 👑
+# 🗑️ No more mantained... 🗑️
 
-## 🎲 My first and biggest 🐱 Pet-Project 🐱 ever... 🎲
-
-> I took a big risk when I decided to take such a step and project, I spent so much effort and nerves on it, already enough for 100$ reparations or compensation or reimbursement.
-
-📱 [WebApp demo test](https://idc-lx.ru) <br/>
-<sub>Published to VDS 14.06.2024 </sub>
-
-📜 [Source Code was opened...](https://github.com/BZ-0/IDC-LX-source-with-history) 📜
-
-## 📜 Instructions to Run 📜
-
-Highly recommended Chrome-based browser from 124 version or higher. 
-
-Enable these flags (at least): 
-- #enable-experimental-web-platform-features
-- #enable-future-v8-vm-features
-- #enable-javascript-harmony
-
----
+🏗️ I working on version 2.0 (IDC-LS i.e. second-edition or svelte-edition) 🏗️
 
 <p style="text-align: center;">
 <h1 style="text-align: center;">📟 IDX-LC (inc) 📟</h1>
