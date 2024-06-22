@@ -1,6 +1,6 @@
 # 🗑️ No more mantained... 🗑️
 
-🏗️ I working on version 2.0 (IDC-LS i.e. second-edition or svelte-edition) 🏗️
+🏗️ I working on version **2.0** (**IDC-LS** i.e. second-edition or svelte-edition) 🏗️
 
 <p style="text-align: center;">
 <h1 style="text-align: center;">📟 IDX-LC (inc) 📟</h1>
