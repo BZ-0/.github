@@ -5,6 +5,10 @@
 - 👑 [IDC-LS](https://github.com/BZ-0/IDC-LS) 👑 - own front-end pet-project, based on PWA, Vite, Svelte, SCSS, etc...
 - 🐴 [IDC-LS-demo](https://idc-lx.ru/) 🐴 - demo of own front-end project (working prototype).
 
+## 🔧 Maintainers 🔧
+
+- 🤷🏻‍♂️ [unit-404](https://github.com/unit-404) 🤷🏻‍♂️
+
 ---
 
 Stay tuned for updates on this ambitious project, as it slowly unfolds into a comprehensive solution that blends style, substance, and technology into one cohesive and revolutionary user experience.
